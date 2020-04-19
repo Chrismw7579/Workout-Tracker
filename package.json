@@ -1,0 +1,28 @@
+{
+  "name": "Workout-Tracker",
+  "version": "1.0.0",
+  "description": "Workout Tracker",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrismw7579/Workout-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chrismw7579/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/Chrismw7579/Workout-Tracker#readme"
+}
